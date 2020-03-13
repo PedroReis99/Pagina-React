@@ -1,0 +1,86 @@
+.div-tabela {
+    width: 1100px;
+    height: 300px;
+    margin-top: 80px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 100px;    
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 2px solid #48185B;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    padding: 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-tabela form{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.div-tabela input{
+    width: 200px;
+    height: 30px;
+    margin-top: 10px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 2px solid #48185B;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    padding: 0px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div-tabela table{
+    margin-top: 15px;
+    margin-left: 25px;
+    width: 95%;
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid #48185B;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    padding: 0px;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.div-tabela th{
+    background: purple;
+}
+
+.div-tabela td{
+    width: 50px;
+    height: 25px;
+    background: white;
+}
+
+.div-tabela th #roda-pe{
+    width: 100%;
+}
+
+.roda-pe {
+    width: 95%;
+    height: 25px;
+    margin-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: purple;
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid #48185B;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    padding: 0px;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.roda-pe h6 #pag{
+    margin-top: 15px;
+    color: #fff;
+}
